@@ -1,143 +1,153 @@
 [[p7zip]]
 arch = "aarch64"
-git-tree-sha1 = "68eeaad98d2cbdb1fb4eb033e623391e04a6faba"
+git-tree-sha1 = "47cf8f73b2f75b0674bb8f77525de3a0d50fd952"
 os = "macos"
 
     [[p7zip.download]]
-    sha256 = "8d034e83b87b856e17b3a1ab4d9bdbb3a89b7d8c413ac286f92e7cf0981669b5"
-    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+0/p7zip.v17.4.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "6837cc2af96b8d8bd72dec8bcc2a2019f861530f1021fd9187186634981f95f7"
+    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+1/p7zip.v17.4.0.aarch64-apple-darwin.tar.gz"
 [[p7zip]]
 arch = "aarch64"
-git-tree-sha1 = "b43bfcfd2ad86c203982d18c99b0a7370d92682b"
+git-tree-sha1 = "2cdc3b350e45724d362d0e1f3461156518f139d0"
 libc = "glibc"
 os = "linux"
 
     [[p7zip.download]]
-    sha256 = "5c1dd3904e68154d4039bc033ac8967bcdffd5f6a2fb9a33cdd1dc2bb9d19dd3"
-    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+0/p7zip.v17.4.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "fc666fb6e8b7537864bcd251bbe74c61c3121e83d1fe924d496a09ebc38ba7fb"
+    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+1/p7zip.v17.4.0.aarch64-linux-gnu.tar.gz"
 [[p7zip]]
 arch = "aarch64"
-git-tree-sha1 = "6bc108e82184253bc6d26283b805c4b2a313f2c7"
+git-tree-sha1 = "629264580bfe01943078b7ca6be4428b5ed30fbe"
 libc = "musl"
 os = "linux"
 
     [[p7zip.download]]
-    sha256 = "dcc6feed4b8093dd00d93fa99b7fbe34983be6e5e4dc1f96b4f0c73b38d57cc9"
-    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+0/p7zip.v17.4.0.aarch64-linux-musl.tar.gz"
+    sha256 = "cd5774763099c8c2eef12d5ab72c77557ccaa4520a550aceacd0e06c96907874"
+    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+1/p7zip.v17.4.0.aarch64-linux-musl.tar.gz"
 [[p7zip]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "d5824c0a4aa0e5b35ee27b85c25b5e2443d85202"
+git-tree-sha1 = "7afc7a6ae99a40b6320914ce3bdd5a807dfc20db"
 libc = "glibc"
 os = "linux"
 
     [[p7zip.download]]
-    sha256 = "53c04b2581555b84733cf62746d6940e954c5503a3c135bcdbf8a5d278d2786d"
-    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+0/p7zip.v17.4.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "b97e19035afff570498f36e3e3b4769f19ccb6326434f0791a8f688d0244fb7b"
+    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+1/p7zip.v17.4.0.armv6l-linux-gnueabihf.tar.gz"
 [[p7zip]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "8f786033a31e339b481bcb30df33bcbd1386de09"
+git-tree-sha1 = "cd158989700e929859d46b193e8cf0cd68386e77"
 libc = "musl"
 os = "linux"
 
     [[p7zip.download]]
-    sha256 = "be063d89ab0d815d7be2b5f9ea80f615f0bf8708384ad1acd3e42d66d6eefd0b"
-    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+0/p7zip.v17.4.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "ba522231fce108e9b37249316164043ea68ab7929862b22d1e9407f31d065d5c"
+    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+1/p7zip.v17.4.0.armv6l-linux-musleabihf.tar.gz"
 [[p7zip]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "e8fe793cf73e055d78bd3ce782354d2c00f86a15"
+git-tree-sha1 = "d393831df739c5c4a81deeebd7a155040fa029b1"
 libc = "glibc"
 os = "linux"
 
     [[p7zip.download]]
-    sha256 = "3f1a4df455f0e14bd7c70c97f9da12d81d109630968fe1cb0f6944103d744ec5"
-    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+0/p7zip.v17.4.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "6ae4cc7c2049db851fa28893f801c6b893a2357467b524f110485a5cb6784982"
+    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+1/p7zip.v17.4.0.armv7l-linux-gnueabihf.tar.gz"
 [[p7zip]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "804526f8a0cb2f74fd4081ec7fa0aba851f5123d"
+git-tree-sha1 = "4066026e227b8340e60cbdc4218107981f29d653"
 libc = "musl"
 os = "linux"
 
     [[p7zip.download]]
-    sha256 = "892f3e73a4fa3ffd3b5b631489b198e25fc6a8831425d936015df7d49663f00d"
-    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+0/p7zip.v17.4.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "e4946fc710ae3d089df7ecf760d512b9cfa3d99bcfad39f20bb960f8099604d5"
+    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+1/p7zip.v17.4.0.armv7l-linux-musleabihf.tar.gz"
 [[p7zip]]
 arch = "i686"
-git-tree-sha1 = "374c5aa1552cb579150e15a24519b41a369d6b17"
+git-tree-sha1 = "958ee6799afdf99cc2e48cb37b47d1d6fe79220f"
 libc = "glibc"
 os = "linux"
 
     [[p7zip.download]]
-    sha256 = "56956f79bcaf21a341466a457dd4c9122e21bf1425d192a51ffb3c3610f6271a"
-    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+0/p7zip.v17.4.0.i686-linux-gnu.tar.gz"
+    sha256 = "4e5c84e72993d90253be72217971a1c416b8630e34901a18dbd9c2e6ca21e845"
+    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+1/p7zip.v17.4.0.i686-linux-gnu.tar.gz"
 [[p7zip]]
 arch = "i686"
-git-tree-sha1 = "ac6d9ea25982c9058c16748aec44701c3e2ef654"
+git-tree-sha1 = "764388766803608f8c14b106889b3c3607444c8f"
 libc = "musl"
 os = "linux"
 
     [[p7zip.download]]
-    sha256 = "1a676e59909c5f25e10ce580b8d9ecbcf9e343119324c0dd088c4ddcc2989acb"
-    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+0/p7zip.v17.4.0.i686-linux-musl.tar.gz"
+    sha256 = "e662666a0f40e8ef0b849390afd6e9e31a96c78994b9b40b1623a5c6ea04bc17"
+    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+1/p7zip.v17.4.0.i686-linux-musl.tar.gz"
 [[p7zip]]
 arch = "i686"
-git-tree-sha1 = "c69c1026b839a606d209314a13da5d0be77363a0"
+git-tree-sha1 = "acd75175f8d43fc18f972de3f760969914562bf1"
 os = "windows"
 
     [[p7zip.download]]
-    sha256 = "a2635926175c8aaa2e22089908ab81bb4ad30c6d4a49cd156a6d8fbe56fbbe39"
-    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+0/p7zip.v17.4.0.i686-w64-mingw32.tar.gz"
+    sha256 = "751c408d4db773754092452ab6e11f2039608afb74c901b3d382c548d86e77af"
+    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+1/p7zip.v17.4.0.i686-w64-mingw32.tar.gz"
 [[p7zip]]
 arch = "powerpc64le"
-git-tree-sha1 = "cd7572a2d7e1d38a5fce49f4473605ae3719f038"
+git-tree-sha1 = "c6eeced63023c1a09c133ebfe9a73391d31648e4"
 libc = "glibc"
 os = "linux"
 
     [[p7zip.download]]
-    sha256 = "1ee3dabaf03ca77391bde3bad4a0d6e28f4cad3cf2c132c4ff2a89f658072049"
-    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+0/p7zip.v17.4.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "40ce5d9b19a30656a29b5837986855606b199d51adba1d126348e94633167762"
+    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+1/p7zip.v17.4.0.powerpc64le-linux-gnu.tar.gz"
 [[p7zip]]
 arch = "x86_64"
-git-tree-sha1 = "04cbb295c6dd4b609bbd30ddfcb6dea033358d67"
+git-tree-sha1 = "3645e1d9a6acbeaeee61c4c27bc89ee3dd1c557f"
 os = "macos"
 
     [[p7zip.download]]
-    sha256 = "2219631279ff871641507864d6d0ee04d883e17ab7c7e2f12147da6f1145b34b"
-    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+0/p7zip.v17.4.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "a35d0489434af49791e45f4676e06f73cabbdef49ae2bcb2f70388542b7b217f"
+    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+1/p7zip.v17.4.0.x86_64-apple-darwin.tar.gz"
 [[p7zip]]
 arch = "x86_64"
-git-tree-sha1 = "7d4eda72b8fc2f4d1d7bc4c3dba9814d983e0bd9"
+git-tree-sha1 = "d2bf5376bf48ab6d9ebd58792531ed9463f100e6"
 libc = "glibc"
 os = "linux"
 
     [[p7zip.download]]
-    sha256 = "ec518cea5cce0e04b5e383f57773dc281c8a8de247c53ec72233ddbfb1033ae5"
-    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+0/p7zip.v17.4.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "5af696a956b2832d5b533aa52f5f17f7539bcf724e1024b0136e1abd8b282807"
+    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+1/p7zip.v17.4.0.x86_64-linux-gnu.tar.gz"
 [[p7zip]]
 arch = "x86_64"
-git-tree-sha1 = "bc5687e2eaec3e7666aad1fb17cad87f159f901b"
+git-tree-sha1 = "0ba906311dce18b4dfe22ab16036784215a8bb4a"
+libc = "glibc"
+os = "linux"
+sanitize = "memory"
+
+    [[p7zip.download]]
+    sha256 = "5fd5121f10cb506ed0ecaea97228d2f5c2d60b2fff708aadb1e0a7f2d68ea469"
+    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+1/p7zip.v17.4.0.x86_64-linux-gnu-sanitize+memory.tar.gz"
+[[p7zip]]
+arch = "x86_64"
+git-tree-sha1 = "0faf4363f01fd4923e6253782ea6070f12e748c7"
 libc = "musl"
 os = "linux"
 
     [[p7zip.download]]
-    sha256 = "e111b3a6aa736fefeb42662e3a595992c46a36b319e9b6d0b26a4875dc7e29dc"
-    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+0/p7zip.v17.4.0.x86_64-linux-musl.tar.gz"
+    sha256 = "bbdcd2b6166f28463706cdff13cf4592dbc0a61b8602f7cbb86380fa9b12c901"
+    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+1/p7zip.v17.4.0.x86_64-linux-musl.tar.gz"
 [[p7zip]]
 arch = "x86_64"
-git-tree-sha1 = "6c2fde10655322fe20135429b42a1bf910655838"
+git-tree-sha1 = "ac1f71ea29f9e27a368d225c63bf1fbebb338521"
 os = "freebsd"
 
     [[p7zip.download]]
-    sha256 = "56cb9abda29d3efac5888e084e1d17fa20db94c5e8851709112c4d3b94f80673"
-    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+0/p7zip.v17.4.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "d8bc931e7662ade4477f6324f8694ec148eb515d7df2bcc2f15241ba81214601"
+    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+1/p7zip.v17.4.0.x86_64-unknown-freebsd.tar.gz"
 [[p7zip]]
 arch = "x86_64"
-git-tree-sha1 = "97f5d434394a47b30a249634b728db6fbed56775"
+git-tree-sha1 = "a9ab7ee6738972888d45ac268dad0497da970c8f"
 os = "windows"
 
     [[p7zip.download]]
-    sha256 = "0df72ac89340774893bf1c52f2d6ca6963d40ec355c7fcc95a79b328aaf20a1a"
-    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+0/p7zip.v17.4.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "8a8ed13ab4fd43fe7b74d680e31272a55649bc5c0091d3c57d44140b745141ae"
+    url = "https://github.com/JuliaBinaryWrappers/p7zip_jll.jl/releases/download/p7zip-v17.4.0+1/p7zip.v17.4.0.x86_64-w64-mingw32.tar.gz"
